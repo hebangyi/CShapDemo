@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\56312\.Rider2019.2\config\scratches" t="IncludeRecursive" />
+    <e p="C:\Users\56312\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\56312\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_CshapDemo.-58817716.00" t="ExcludeRecursive" />
+    <e p="D:\cproject\CshapDemo" t="IncludeFlat">
+      <e p="CshapDemo" t="IncludeRecursive">
+        <e p="Async" t="Include">
+          <e p="ASyncTest.cs" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="C#6.0" t="Include">
+          <e p="CShapSetting.cs" t="Include" />
+          <e p="DataType.cs" t="Include" />
+          <e p="Dictionary.cs" t="Include" />
+          <e p="Extensions.cs" t="Include" />
+          <e p="KeyPointTest.cs" t="Include" />
+          <e p="StringType.cs" t="Include" />
+        </e>
+        <e p="C#8.0" t="Include">
+          <e p="CShap8Test.cs" t="Include" />
+        </e>
+        <e p="Connection" t="Include">
+          <e p="ConnectionTest.cs" t="Include" />
+          <e p="CovariantTest.cs" t="Include" />
+          <e p="EnumerableTest.cs" t="Include" />
+          <e p="SortTest.cs" t="Include" />
+        </e>
+        <e p="CshapDemo.csproj" t="IncludeRecursive" />
+        <e p="Dictionary" t="Include">
+          <e p="DictorynaryTest.cs" t="Include" />
+        </e>
+        <e p="IFDemo" t="Include">
+          <e p="IfTest.cs" t="Include" />
+        </e>
+        <e p="IntegerfaceDemo" t="Include">
+          <e p="LightTest.cs" t="Include" />
+        </e>
+        <e p="LINQ" t="Include" />
+        <e p="NumberDemo" t="Include">
+          <e p="NumTest.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="CshapDemo.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="ObjectDemo" t="Include">
+          <e p="ConverTest.cs" t="Include" />
+          <e p="EqualTest.cs" t="Include" />
+          <e p="EunmTest.cs" t="Include" />
+          <e p="FunctionTest.cs" t="Include" />
+          <e p="ObjectTest.cs" t="Include" />
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Reflection" t="Include">
+          <e p="ReflectionTest.cs" t="Include" />
+        </e>
+        <e p="Serialization" t="Include">
+          <e p="SerializationTest.cs" t="Include" />
+        </e>
+        <e p="StringDemo" t="Include">
+          <e p="StringTest.cs" t="Include" />
+        </e>
+      </e>
+      <e p="CshapDemo.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

@@ -1,0 +1,13 @@
+D:\cproject\CshapDemo\CshapDemo\bin\Debug\netcoreapp3.1\CshapDemo.exe
+D:\cproject\CshapDemo\CshapDemo\bin\Debug\netcoreapp3.1\CshapDemo.deps.json
+D:\cproject\CshapDemo\CshapDemo\bin\Debug\netcoreapp3.1\CshapDemo.runtimeconfig.json
+D:\cproject\CshapDemo\CshapDemo\bin\Debug\netcoreapp3.1\CshapDemo.runtimeconfig.dev.json
+D:\cproject\CshapDemo\CshapDemo\bin\Debug\netcoreapp3.1\CshapDemo.dll
+D:\cproject\CshapDemo\CshapDemo\bin\Debug\netcoreapp3.1\CshapDemo.pdb
+D:\cproject\CshapDemo\CshapDemo\obj\Debug\netcoreapp3.1\CshapDemo.csprojAssemblyReference.cache
+D:\cproject\CshapDemo\CshapDemo\obj\Debug\netcoreapp3.1\CshapDemo.csproj.CoreCompileInputs.cache
+D:\cproject\CshapDemo\CshapDemo\obj\Debug\netcoreapp3.1\CshapDemo.AssemblyInfoInputs.cache
+D:\cproject\CshapDemo\CshapDemo\obj\Debug\netcoreapp3.1\CshapDemo.AssemblyInfo.cs
+D:\cproject\CshapDemo\CshapDemo\obj\Debug\netcoreapp3.1\CshapDemo.dll
+D:\cproject\CshapDemo\CshapDemo\obj\Debug\netcoreapp3.1\CshapDemo.pdb
+D:\cproject\CshapDemo\CshapDemo\obj\Debug\netcoreapp3.1\CshapDemo.genruntimeconfig.cache

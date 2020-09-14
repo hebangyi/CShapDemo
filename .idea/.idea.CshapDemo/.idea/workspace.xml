@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b6beb772-4eb8-4218-90d1-d5c220ecbcb7" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/869E6C21-96FE-460F-9B92-1C6D00DF784B/eb/99fecd31/ValueTuple`2.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/AD61CA47-F8B7-4CC6-93A0-BA44CC73B5C7/41/41390978/ICollection`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CshapDemo/Async/ASyncTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CshapDemo/ObjectDemo/ConverTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CshapDemo/Connection/EnumerableTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CshapDemo/ObjectDemo/EunmTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DA26A7AD-A95D-47DF-990D-4F352096574D/b4/6a7a9b8a/HttpClient.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CshapDemo/Connection/CovariantTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CshapDemo/ObjectDemo/FunctionTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CshapDemo/C#8.0/CShap8Test.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/623AD323-590B-41E0-B4A1-CCB8F3313607/43/0983c437/List`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CshapDemo/ObjectDemo/EqualTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CshapDemo/Serialization/SerializationTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CshapDemo/IntegerfaceDemo/LightTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CshapDemo/C#6.0/StringType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CshapDemo/Connection/SortTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BAF1C499-A2F8-458A-B9BD-7154E51A6DCF/b6/90ee8838/Environment.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CshapDemo/C#6.0/KeyPointTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/869E6C21-96FE-460F-9B92-1C6D00DF784B/d6/e14eacc4/Int32.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CshapDemo/C#6.0/Dictionary.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CshapDemo/C#6.0/Extensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CshapDemo/C#6.0/DataType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CshapDemo/Dictionary/DictorynaryTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CshapDemo/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CshapDemo/C#6.0/CShapSetting.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CshapDemo/Connection/ConnectionTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CshapDemo/IFDemo/IfTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CshapDemo/NumberDemo/NumTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CshapDemo/Reflection/ReflectionTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/869E6C21-96FE-460F-9B92-1C6D00DF784B/77/eec472f2/String.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/869E6C21-96FE-460F-9B92-1C6D00DF784B/d5/55cc799f/StringBuilder.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CshapDemo/StringDemo/StringTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CshapDemo/ObjectDemo/ObjectTest.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/CshapDemo/StringDemo/TrimTest.cs" />
+        <option value="$PROJECT_DIR$/CshapDemo/StringDemo/String.cs" />
+        <option value="$PROJECT_DIR$/CshapDemo/StringDemo/NumTest.cs" />
+        <option value="$PROJECT_DIR$/CshapDemo/IFDemo/IfTest.cs" />
+        <option value="$PROJECT_DIR$/CshapDemo/NumberDemo/NumTest.cs" />
+        <option value="$PROJECT_DIR$/CshapDemo/StringDemo/StringTest.cs" />
+        <option value="$PROJECT_DIR$/CshapDemo/Dictionary/DictorynaryTest.cs" />
+        <option value="$PROJECT_DIR$/CshapDemo/C#6.0/CShapSetting.cs" />
+        <option value="$PROJECT_DIR$/CshapDemo/C#6.0/NameOfTest.cs" />
+        <option value="$PROJECT_DIR$/CshapDemo/C#6.0/Dictionary.cs" />
+        <option value="$PROJECT_DIR$/CshapDemo/C#6.0/Extensions.cs" />
+        <option value="$PROJECT_DIR$/CshapDemo/C#6.0/DataType.cs" />
+        <option value="$PROJECT_DIR$/CshapDemo/IntegerfaceDemo/LightTest.cs" />
+        <option value="$PROJECT_DIR$/CshapDemo/C#6.0/StringType.cs" />
+        <option value="$PROJECT_DIR$/CshapDemo/C#8.0/CShap8Test.cs" />
+        <option value="$PROJECT_DIR$/CshapDemo/Async/ASyncTest.cs" />
+        <option value="$PROJECT_DIR$/CshapDemo/Connection/ConnectionTest.cs" />
+        <option value="$PROJECT_DIR$/CshapDemo/Connection/SortTest.cs" />
+        <option value="$PROJECT_DIR$/CshapDemo/Connection/CovariantTest.cs" />
+        <option value="$PROJECT_DIR$/CshapDemo/Connection/EnumerableTest.cs" />
+        <option value="$PROJECT_DIR$/CshapDemo/StructClazz.cs" />
+        <option value="$PROJECT_DIR$/CshapDemo/Reflection/ReflectionTest.cs" />
+        <option value="$PROJECT_DIR$/CshapDemo/Serialization/SerializationTest.cs" />
+        <option value="$PROJECT_DIR$/CshapDemo/Program.cs" />
+        <option value="$PROJECT_DIR$/CshapDemo/ObjectDemo/EqualTest.cs" />
+        <option value="$PROJECT_DIR$/CshapDemo/ObjectDemo/StringTest.cs" />
+        <option value="$PROJECT_DIR$/CshapDemo/ObjectDemo/ConverTest.cs" />
+        <option value="$PROJECT_DIR$/CshapDemo/ObjectDemo/EunmTest.cs" />
+        <option value="$PROJECT_DIR$/CshapDemo/ObjectDemo/ObjectTest.cs" />
+        <option value="$PROJECT_DIR$/CshapDemo/ObjectDemo/FunctionTest.cs" />
+        <option value="$PROJECT_DIR$/CshapDemo/C#6.0/KeyPointTest.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hJMCkLN3vzY7ImHHblHe9aKepD" />
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/CshapDemo/bin/Debug/netcoreapp3.1/CshapDemo.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CshapDemo/bin/Debug/netcoreapp3.1" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/CshapDemo/CshapDemo.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v3.1" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6beb772-4eb8-4218-90d1-d5c220ecbcb7" name="Default Changelist" comment="" />
+      <created>1599724616633</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599724616633</updated>
+      <workItem from="1599724619865" duration="35930000" />
+      <workItem from="1599911919548" duration="24084000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
