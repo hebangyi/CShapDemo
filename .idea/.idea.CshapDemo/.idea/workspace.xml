@@ -1,47 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b6beb772-4eb8-4218-90d1-d5c220ecbcb7" name="Default Changelist" comment="" />
+    <list default="true" id="b6beb772-4eb8-4218-90d1-d5c220ecbcb7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/CshapDemo/ThreadTest/TaskA.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CshapDemo/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CshapDemo/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CshapDemo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CshapDemo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CshapDemo/Async/ASyncTest.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CshapDemo/Async/ASyncTest.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CshapDemo/ObjectDemo/FunctionTest.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CshapDemo/ObjectDemo/FunctionTest.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CshapDemo/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CshapDemo/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CshapDemo/bin/Debug/netcoreapp3.1/CshapDemo.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CshapDemo/bin/Debug/netcoreapp3.1/CshapDemo.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CshapDemo/bin/Debug/netcoreapp3.1/CshapDemo.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CshapDemo/bin/Debug/netcoreapp3.1/CshapDemo.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CshapDemo/obj/CshapDemo.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CshapDemo/obj/CshapDemo.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CshapDemo/obj/CshapDemo.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/CshapDemo/obj/CshapDemo.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CshapDemo/obj/CshapDemo.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/CshapDemo/obj/CshapDemo.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CshapDemo/obj/Debug/netcoreapp3.1/CshapDemo.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CshapDemo/obj/Debug/netcoreapp3.1/CshapDemo.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CshapDemo/obj/Debug/netcoreapp3.1/CshapDemo.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CshapDemo/obj/Debug/netcoreapp3.1/CshapDemo.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CshapDemo/obj/Debug/netcoreapp3.1/CshapDemo.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CshapDemo/obj/Debug/netcoreapp3.1/CshapDemo.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CshapDemo/obj/Debug/netcoreapp3.1/CshapDemo.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CshapDemo/obj/Debug/netcoreapp3.1/CshapDemo.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CshapDemo/obj/Debug/netcoreapp3.1/CshapDemo.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CshapDemo/obj/Debug/netcoreapp3.1/CshapDemo.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CshapDemo/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/CshapDemo/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CshapDemo/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/CshapDemo/obj/project.packagespec.json" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/869E6C21-96FE-460F-9B92-1C6D00DF784B/eb/99fecd31/ValueTuple`2.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/AD61CA47-F8B7-4CC6-93A0-BA44CC73B5C7/41/41390978/ICollection`1.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CshapDemo/Async/ASyncTest.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CshapDemo/ObjectDemo/ConverTest.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CshapDemo/Connection/EnumerableTest.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CshapDemo/ObjectDemo/EunmTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/95D243C5-2044-4A19-8315-833738F9B02C/3c/ba456ae2/Enumerable.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/19F6E191-C870-4E51-934D-283FAD908C97/49/99ebb9de/TaskCompletionSource`1.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DA26A7AD-A95D-47DF-990D-4F352096574D/b4/6a7a9b8a/HttpClient.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CshapDemo/Connection/CovariantTest.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CshapDemo/ObjectDemo/FunctionTest.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CshapDemo/C#8.0/CShap8Test.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/869E6C21-96FE-460F-9B92-1C6D00DF784B/b6/7bcf6165/Task`1.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/623AD323-590B-41E0-B4A1-CCB8F3313607/43/0983c437/List`1.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CshapDemo/ObjectDemo/EqualTest.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CshapDemo/Serialization/SerializationTest.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CshapDemo/IntegerfaceDemo/LightTest.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CshapDemo/C#6.0/StringType.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CshapDemo/Connection/SortTest.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BAF1C499-A2F8-458A-B9BD-7154E51A6DCF/b6/90ee8838/Environment.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CshapDemo/C#6.0/KeyPointTest.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/869E6C21-96FE-460F-9B92-1C6D00DF784B/d6/e14eacc4/Int32.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CshapDemo/C#6.0/Dictionary.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CshapDemo/C#6.0/Extensions.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CshapDemo/C#6.0/DataType.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CshapDemo/Dictionary/DictorynaryTest.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CshapDemo/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CshapDemo/C#6.0/CShapSetting.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CshapDemo/C#6.0/Extensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CshapDemo/C#6.0/StringType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BAF1C499-A2F8-458A-B9BD-7154E51A6DCF/b6/90ee8838/Environment.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/869E6C21-96FE-460F-9B92-1C6D00DF784B/d6/e14eacc4/Int32.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CshapDemo/Async/ASyncTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/AD61CA47-F8B7-4CC6-93A0-BA44CC73B5C7/be/919b6cf8/TaskStatus.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CshapDemo/Connection/CovariantTest.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CshapDemo/Connection/ConnectionTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CshapDemo/Connection/SortTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CshapDemo/Connection/EnumerableTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CshapDemo/C#6.0/KeyPointTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CshapDemo/C#6.0/CShapSetting.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CshapDemo/C#8.0/CShap8Test.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CshapDemo/IFDemo/IfTest.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CshapDemo/NumberDemo/NumTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CshapDemo/ObjectDemo/EqualTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CshapDemo/ObjectDemo/ObjectTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CshapDemo/ObjectDemo/EunmTest.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CshapDemo/Reflection/ReflectionTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CshapDemo/Dictionary/DictorynaryTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CshapDemo/NumberDemo/NumTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CshapDemo/ObjectDemo/ConverTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CshapDemo/ObjectDemo/FunctionTest.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/869E6C21-96FE-460F-9B92-1C6D00DF784B/77/eec472f2/String.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CshapDemo/ThreadTest/ThreadTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CshapDemo/ThreadTest/SynchronizationContextTest.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/869E6C21-96FE-460F-9B92-1C6D00DF784B/d5/55cc799f/StringBuilder.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CshapDemo/StringDemo/StringTest.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CshapDemo/ObjectDemo/ObjectTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CshapDemo/Serialization/SerializationTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/869E6C21-96FE-460F-9B92-1C6D00DF784B/f5/4e2aeb4d/Task.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CshapDemo/IntegerfaceDemo/LightTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CshapDemo/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/42351F39-3805-45FC-AEF8-57EF85333B89/21/58107b47/SynchronizationContext.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BAF1C499-A2F8-458A-B9BD-7154E51A6DCF/e0/b827d63f/Math.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CshapDemo/ThreadTest/TaskA.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -61,7 +93,6 @@
         <option value="$PROJECT_DIR$/CshapDemo/IntegerfaceDemo/LightTest.cs" />
         <option value="$PROJECT_DIR$/CshapDemo/C#6.0/StringType.cs" />
         <option value="$PROJECT_DIR$/CshapDemo/C#8.0/CShap8Test.cs" />
-        <option value="$PROJECT_DIR$/CshapDemo/Async/ASyncTest.cs" />
         <option value="$PROJECT_DIR$/CshapDemo/Connection/ConnectionTest.cs" />
         <option value="$PROJECT_DIR$/CshapDemo/Connection/SortTest.cs" />
         <option value="$PROJECT_DIR$/CshapDemo/Connection/CovariantTest.cs" />
@@ -69,14 +100,23 @@
         <option value="$PROJECT_DIR$/CshapDemo/StructClazz.cs" />
         <option value="$PROJECT_DIR$/CshapDemo/Reflection/ReflectionTest.cs" />
         <option value="$PROJECT_DIR$/CshapDemo/Serialization/SerializationTest.cs" />
-        <option value="$PROJECT_DIR$/CshapDemo/Program.cs" />
         <option value="$PROJECT_DIR$/CshapDemo/ObjectDemo/EqualTest.cs" />
         <option value="$PROJECT_DIR$/CshapDemo/ObjectDemo/StringTest.cs" />
         <option value="$PROJECT_DIR$/CshapDemo/ObjectDemo/ConverTest.cs" />
         <option value="$PROJECT_DIR$/CshapDemo/ObjectDemo/EunmTest.cs" />
         <option value="$PROJECT_DIR$/CshapDemo/ObjectDemo/ObjectTest.cs" />
-        <option value="$PROJECT_DIR$/CshapDemo/ObjectDemo/FunctionTest.cs" />
         <option value="$PROJECT_DIR$/CshapDemo/C#6.0/KeyPointTest.cs" />
+        <option value="$PROJECT_DIR$/CshapDemo/ObjectDemo/FunctionTest.cs" />
+        <option value="$PROJECT_DIR$/CshapDemo/Async/ASyncTest.cs" />
+        <option value="$PROJECT_DIR$/CshapDemo/Thread/ThreadTest.cs" />
+        <option value="$PROJECT_DIR$/CshapDemo/ThreadTest/SynchronizationContext.cs" />
+        <option value="$PROJECT_DIR$/CshapDemo/ThreadTest/ThreadTest.cs" />
+        <option value="$PROJECT_DIR$/CshapDemo/ThreadTest/Test.cs" />
+        <option value="$PROJECT_DIR$/CshapDemo/ThreadTest/SynchronizationContextTest.cs" />
+        <option value="$PROJECT_DIR$/CshapDemo/ThreadTest/Task.cs" />
+        <option value="$PROJECT_DIR$/CshapDemo/ThreadTest/ThreadPool.cs" />
+        <option value="$PROJECT_DIR$/CshapDemo/Program.cs" />
+        <option value="$PROJECT_DIR$/CshapDemo/ThreadTest/TaskA.cs" />
       </list>
     </option>
   </component>
@@ -91,6 +131,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunDashboard">
@@ -137,6 +178,8 @@
       <updated>1599724616633</updated>
       <workItem from="1599724619865" duration="35930000" />
       <workItem from="1599911919548" duration="24084000" />
+      <workItem from="1600237889624" duration="3104000" />
+      <workItem from="1601006617878" duration="37291000" />
     </task>
     <servers />
   </component>
@@ -145,6 +188,19 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
   </component>

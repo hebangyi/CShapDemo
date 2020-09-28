@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\56312\.Rider2019.2\config\scratches" t="IncludeRecursive" />
-    <e p="C:\Users\56312\.Rider2019.2\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\56312\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_CshapDemo.-58817716.00" t="ExcludeRecursive" />
-    <e p="D:\cproject\CshapDemo" t="IncludeFlat">
+    <e p="C:\heby\GIT\CshapDemo" t="IncludeFlat">
       <e p="CshapDemo" t="IncludeRecursive">
         <e p="Async" t="Include">
           <e p="ASyncTest.cs" t="Include" />
@@ -65,9 +62,17 @@
         <e p="StringDemo" t="Include">
           <e p="StringTest.cs" t="Include" />
         </e>
+        <e p="ThreadTest" t="Include">
+          <e p="SynchronizationContextTest.cs" t="Include" />
+          <e p="TaskA.cs" t="Include" />
+          <e p="ThreadTest.cs" t="Include" />
+        </e>
       </e>
       <e p="CshapDemo.sln" t="IncludeFlat" />
       <e p="packages" t="ExcludeRecursive" />
     </e>
+    <e p="C:\Users\56312\.Rider2019.2\config\scratches" t="IncludeRecursive" />
+    <e p="C:\Users\56312\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\56312\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_CshapDemo.1026967615.00" t="ExcludeRecursive" />
   </component>
 </project>

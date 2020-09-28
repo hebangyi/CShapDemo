@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "D:\\cproject\\CshapDemo\\CshapDemo\\CshapDemo.csproj",
+    "projectUniqueName": "C:\\heby\\GIT\\CShapDemo\\CshapDemo\\CshapDemo.csproj",
     "projectName": "CshapDemo",
-    "projectPath": "D:\\cproject\\CshapDemo\\CshapDemo\\CshapDemo.csproj",
-    "outputPath": "D:\\cproject\\CshapDemo\\CshapDemo\\obj\\",
+    "projectPath": "C:\\heby\\GIT\\CShapDemo\\CshapDemo\\CshapDemo.csproj",
+    "outputPath": "C:\\heby\\GIT\\CShapDemo\\CshapDemo\\obj\\",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

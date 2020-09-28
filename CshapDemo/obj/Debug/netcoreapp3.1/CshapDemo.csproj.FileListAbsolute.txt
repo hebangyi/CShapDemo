@@ -11,3 +11,16 @@ D:\cproject\CshapDemo\CshapDemo\obj\Debug\netcoreapp3.1\CshapDemo.AssemblyInfo.c
 D:\cproject\CshapDemo\CshapDemo\obj\Debug\netcoreapp3.1\CshapDemo.dll
 D:\cproject\CshapDemo\CshapDemo\obj\Debug\netcoreapp3.1\CshapDemo.pdb
 D:\cproject\CshapDemo\CshapDemo\obj\Debug\netcoreapp3.1\CshapDemo.genruntimeconfig.cache
+C:\heby\GIT\CShapDemo\CshapDemo\bin\Debug\netcoreapp3.1\CshapDemo.exe
+C:\heby\GIT\CShapDemo\CshapDemo\bin\Debug\netcoreapp3.1\CshapDemo.deps.json
+C:\heby\GIT\CShapDemo\CshapDemo\bin\Debug\netcoreapp3.1\CshapDemo.runtimeconfig.json
+C:\heby\GIT\CShapDemo\CshapDemo\bin\Debug\netcoreapp3.1\CshapDemo.runtimeconfig.dev.json
+C:\heby\GIT\CShapDemo\CshapDemo\bin\Debug\netcoreapp3.1\CshapDemo.dll
+C:\heby\GIT\CShapDemo\CshapDemo\bin\Debug\netcoreapp3.1\CshapDemo.pdb
+C:\heby\GIT\CShapDemo\CshapDemo\obj\Debug\netcoreapp3.1\CshapDemo.csprojAssemblyReference.cache
+C:\heby\GIT\CShapDemo\CshapDemo\obj\Debug\netcoreapp3.1\CshapDemo.csproj.CoreCompileInputs.cache
+C:\heby\GIT\CShapDemo\CshapDemo\obj\Debug\netcoreapp3.1\CshapDemo.AssemblyInfoInputs.cache
+C:\heby\GIT\CShapDemo\CshapDemo\obj\Debug\netcoreapp3.1\CshapDemo.AssemblyInfo.cs
+C:\heby\GIT\CShapDemo\CshapDemo\obj\Debug\netcoreapp3.1\CshapDemo.dll
+C:\heby\GIT\CShapDemo\CshapDemo\obj\Debug\netcoreapp3.1\CshapDemo.pdb
+C:\heby\GIT\CShapDemo\CshapDemo\obj\Debug\netcoreapp3.1\CshapDemo.genruntimeconfig.cache

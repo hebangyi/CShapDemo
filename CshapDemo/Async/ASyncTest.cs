@@ -16,6 +16,12 @@ namespace name.heby.Async
             Console.WriteLine("AsyncTest1 Finished!");
         }
 
+
+        public void test()
+        {
+            DoSometionA();
+        }
+
         public async Task DoSometionA()
         {
             Console.WriteLine("DoSomething A Begin!");

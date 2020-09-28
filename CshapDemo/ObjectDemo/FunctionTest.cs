@@ -26,7 +26,12 @@ namespace name.heby.ObjectDemo
             TestDelegate testDelB = delegate(string s) { Console.WriteLine(s); };
             
             Func<string, string> testFuncb = delegate(string s) { Console.WriteLine(s);return null;};
-            
+
+            Action testAction = () =>
+            {
+                Console.Write("testAction invoke!");
+            };
+
             // C# 3.0. A delegate can be initialized with
             // a lambda expression. The lambda also takes a string
             // as an input parameter (x). The type of x is inferred by the compiler.
@@ -35,7 +40,7 @@ namespace name.heby.ObjectDemo
             testDelA("Hello. My name is M and I write lines.");
             testDelB("That's nothing. I'm anonymous and ");
             testDelC("I'm a famous author.");
-            
+            testAction();
         }
         
     }

@@ -32,7 +32,16 @@ namespace name.heby
             // ReflectionTest.Test();
             // XMLSerilizeTest.Test();
             // FunctionTest.Test();
-            EqualTest.Test();
+            // EqualTest.Test();
+            // new ThreadTest().ThreadTestJoin();
+            // new SynchronizationContextTest();
+            // new ThreadPoolTest().TaskTest1();
+            // new ThreadPoolTest().TaskTest2();
+            // new ThreadPoolTest().TaskTest3();
+            // new ThreadPoolTest().TaskTest4();
+            // new ThreadPoolTest().TaskTest7();
+            // new ThreadPoolTest().TaskTest8();
+            new ThreadPoolTest().TaskTest9();
         }
     }
 }
